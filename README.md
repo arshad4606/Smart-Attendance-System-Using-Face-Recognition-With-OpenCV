@@ -6,6 +6,24 @@ The System captures facial images through a high-definition camera, processes th
 
 Upon successful recognition attendance is automatically recorded with a timestamp and stored in a structured database. 
 
+HARDWARE REQUIREMENTS
+
+Computer           : That Supports Python
+
+Web-camera         : High Definition
+
+RAM                : 16 GB 
+
+SOFTWARE REQUIREMENTS
+
+Libraries          : Open CV, NumPy, pandas
+
+Tool               : Spyder
+
+Database           : Excel-Sheet
+
+Coding Language    : Python           
+
 MODULES:
 
 1.Image Capturing.
